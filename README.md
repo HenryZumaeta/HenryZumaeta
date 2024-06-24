@@ -23,7 +23,7 @@
 <a href="https://github.com/HenryZumaeta">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryZumaeta&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenryZumaeta&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="277em" src="https://github-readme-activity-graph.vercel.app/graph?username=HenryZumaeta&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
+  <img height="277em" src="https://github-readme-activity-graph.vercel.app/graph?username=HenryZumaeta&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true&include_all_commits=true&count_private=true">
 </a>
 </p>
 
@@ -51,7 +51,7 @@
   <a href="https://www.buymeacoffee.com/henryzumaeta" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important; width: 151.9px !important;">
   </a>
-  <a href="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/DATA/QR_yape.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/e95ba2c6226195e360f4173f62e9e53985d653b1/DATA/Yape.png" alt="Yape" style="height: 42px !important; width: 151.9px !important;">
+  <a href="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/db/QR_yape.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/db/Yape.png" alt="Yape" style="height: 42px !important; width: 151.9px !important;">
   </a>
 </p>

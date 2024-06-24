@@ -23,7 +23,7 @@
 <a href="https://github.com/HenryZumaeta">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryZumaeta&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenryZumaeta&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="277em" src="https://github-readme-activity-graph.vercel.app/graph?username=HenryZumaeta&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="277em" src="https://github-readme-activity-graph.vercel.app/graph?username=HenryZumaeta&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=false&include_all_commits=true&count_private=true">
 </a>
 </p>
 

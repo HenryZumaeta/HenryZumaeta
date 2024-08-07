@@ -10,7 +10,7 @@
 <img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/DATA/programando.gif" width="50%">
 
 - 👷‍♂️ I’m a Civil Engineer, CIP N° 332719.
-- 👨‍💻 My passion is Hydrology, GIS, Data Science, AI, Machine Learning, Deep Learning, and Mathematics.
+- 👨‍💻 My passion is Structures, Hydrology, GIS, Data Science, AI, Machine Learning, Deep Learning, and Mathematics.
 - 📈 My work focuses on leveraging data-driven insights and advanced algorithms to solve complex problems in engineering and beyond.
 - 💻 With a strong foundation in statistics and programming, I am dedicated to pushing the boundaries of innovation and efficiency.
 - 🌍 I love exploring and applying innovative solutions across these domains to drive progress and efficiency.

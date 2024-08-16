@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/henryzumaeta/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="linkedin" height="50" width="50" /></a>
   <a href="https://twitter.com/henryzumaeta" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64156&format=png&color=000000" alt="twitter" height="50" width="50" /></a>
   <a href="https://www.instagram.com/henryzumaeta/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000" alt="instagram" height="50" width="50" /></a>
-  <a href="https://api.whatsapp.com/send?phone=51963719768&text=%F0%9F%91%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" alt="whatsapp" height="50" width="50" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+51963719768&text=Hola,%20te%20saluda" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" alt="whatsapp" height="50" width="50" /></a>
   <a href="mailto:henry.zumaeta.l@uni.pe" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="email" height="50" width="50" /></a>
 </p>
 

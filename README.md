@@ -11,7 +11,7 @@
 </h2>
 
 <!-- Imagen animada alineada a la derecha con margen izquierdo -->
-<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/MarioProgramando.gif" width="13.2%" style="margin-left: 15px;" alt="Mario programando">
+<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/MarioProgramando.gif" width="14%" style="margin-left: 15px;" alt="Mario programando">
 
 <!-- Contenido descriptivo -->
 <ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif;">

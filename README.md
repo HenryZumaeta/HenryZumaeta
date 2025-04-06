@@ -5,9 +5,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=4000&pause=500&color=05C35C&center=true&vCenter=true&random=false&width=600&height=80&lines=Civil+Engineer;Data+Science+Master's+Student" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=F9ipR5cXjxhq&format=png&color=000000" width="6.5%"> About Me
+## <img src="https://img.icons8.com/?size=100&id=F9ipR5cXjxhq&format=png&color=000000" width="3.0%"> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/DATA/programando.gif" width="50%">
+<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/MarioProgramando.gif" width="13.2%">
 
 - 👷‍♂️ I’m a Civil Engineer, CIP N° 332719.
 - 👨‍💻 My passion is Structures, Hydrology, GIS, Data Science, AI, Machine Learning, Deep Learning, and Mathematics.
@@ -18,7 +18,7 @@
 - 🌟 I’m currently open for new job opportunities.
 <br>
 
-## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="6.5%"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="2.5%"> GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/HenryZumaeta">
@@ -28,15 +28,21 @@
 </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="6.5%"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="2.5%"> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,autocad,gcp,git,github,latex,md,matlab,mysql,notion,obsidian,opencv,postgres,py,pytorch,qt,r,sqlite,sklearn,tensorflow,vscode,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,anaconda,pytorch,tensorflow,sklearn,opencv,r,matlab&perline=8" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,qt,windows,gcp&perline=8" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=8" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=autocad,latex,md,notion,obsidian&perline=8" />
   </a>
 </p>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl4cDgyc3RvaGQyODIzejQwMHRweTQ3OWR6djJ6ZGV5bTJ3OTI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SN27lDNsuR1Vqy0zMQ/giphy.webp" width="6.5%"> Connect With Me
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl4cDgyc3RvaGQyODIzejQwMHRweTQ3OWR6djJ6ZGV5bTJ3OTI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SN27lDNsuR1Vqy0zMQ/giphy.webp" width="3.5%"> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henryzumaeta/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="linkedin" height="50" width="50" /></a>
@@ -46,13 +52,13 @@
   <a href="mailto:henry.zumaeta.l@uni.pe" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="email" height="50" width="50" /></a>
 </p>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvdHA4bmpjNWs1MzBsbHZjaXUzMHI5bGY4NmQya2ppcnljY3dpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNBCVMv6XobnMUMYJG/giphy.gif" width="6.5%"> Support My Work
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvdHA4bmpjNWs1MzBsbHZjaXUzMHI5bGY4NmQya2ppcnljY3dpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNBCVMv6XobnMUMYJG/giphy.gif" width="3.5%"> Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/henryzumaeta" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important; width: 151.9px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 28px !important; width: 100px !important;">
   </a>
   <a href="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/db/QR_yape.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/db/Yape.png" alt="Yape" style="height: 42px !important; width: 151.9px !important;">
+    <img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/main/db/Yape.png" alt="Yape" style="height: 28px !important; width: 100px !important;">
   </a>
 </p>

@@ -5,18 +5,25 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=4000&pause=500&color=05C35C&center=true&vCenter=true&random=false&width=600&height=80&lines=Civil+Engineer;Data+Science+Master's+Student" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=F9ipR5cXjxhq&format=png&color=000000" width="3.0%"> About Me
+<!-- Título "About Me" con ícono -->
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=F9ipR5cXjxhq&format=png&color=000000" width="3.0%" alt="Icono About Me"> About Me
+</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/MarioProgramando.gif" width="13.2%">
+<!-- Imagen animada alineada a la derecha con margen izquierdo -->
+<img align="right" src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/MarioProgramando.gif" width="13.2%" style="margin-left: 15px;" alt="Mario programando">
 
-- 👷‍♂️ I’m a Civil Engineer, CIP N° 332719.
-- 👨‍💻 My passion is Structures, Hydrology, GIS, Data Science, AI, Machine Learning, Deep Learning, and Mathematics.
-- 📈 My work focuses on leveraging data-driven insights and advanced algorithms to solve complex problems in engineering and beyond.
-- 💻 With a strong foundation in statistics and programming, I am dedicated to pushing the boundaries of innovation and efficiency.
-- 🌍 I love exploring and applying innovative solutions across these domains to drive progress and efficiency.
-- 🤓 Always learning new things and staying updated with the latest advancements in technology.
-- 🌟 I’m currently open for new job opportunities.
-<br>
+<!-- Contenido descriptivo -->
+<ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif;">
+  <li>👷‍♂️ I’m a Civil Engineer, CIP N° 332719.</li>
+  <li>👨‍💻 My passion is Structures, Hydrology, GIS, Data Science, AI, Machine Learning, Deep Learning, and Mathematics.</li>
+  <li>📈 My work focuses on leveraging data-driven insights and advanced algorithms to solve complex problems in engineering and beyond.</li>
+  <li>💻 With a strong foundation in statistics and programming, I am dedicated to pushing the boundaries of innovation and efficiency.</li>
+  <li>🌍 I love exploring and applying innovative solutions across these domains to drive progress and efficiency.</li>
+  <li>🤓 Always learning new things and staying updated with the latest advancements in technology.</li>
+  <li>🌟 I’m currently open for new job opportunities.</li>
+</ul>
+
 
 ## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="2.5%"> GitHub Analytics
 

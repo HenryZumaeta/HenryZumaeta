@@ -43,9 +43,9 @@
     <br />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,qt,windows,gcp&perline=8" />
     <br />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=8" />
-    <br />
     <img src="https://skillicons.dev/icons?i=autocad,latex,md,notion,obsidian&perline=8" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=8" />
   </a>
 </p>
 

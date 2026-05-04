@@ -1,4 +1,4 @@
-<img src="https://github.com/HenryZumaeta/HenryZumaeta/assets/87044270/966c5682-f15e-4a2a-bd4c-3a79e129866e" width="1100" height="250">
+<img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/wanderer_v05_1800x506.png" width="1100" height="250">
 
 <h1 align="center">Hi, I'm Henry Zumaeta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -51,13 +51,24 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl4cDgyc3RvaGQyODIzejQwMHRweTQ3OWR6djJ6ZGV5bTJ3OTI1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SN27lDNsuR1Vqy0zMQ/giphy.webp" width="3.5%"> Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henryzumaeta/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/henryzumaeta" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=64156&format=png&color=000000" alt="twitter" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/henryzumaeta/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000" alt="instagram" height="50" width="50" /></a>
-  <a href="https://wa.me/51963719768" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" alt="whatsapp" height="50" width="50" /></a>
-  <a href="mailto:henry.zumaeta.l@uni.pe" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="email" height="50" width="50" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/henryzumaeta/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" width="50">
+  </a>
+  <a href="https://twitter.com/henryzumaeta" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=64156&format=png&color=000000" width="50">
+  </a>
+  <a href="https://www.instagram.com/henryzumaeta/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000" width="50">
+  </a>
+  <a href="https://wa.me/51963719768" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="50">
+  </a>
+  <a href="mailto:henry.zumaeta.l@uni.pe" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" width="50">
+  </a>
 </p>
+
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FvdHA4bmpjNWs1MzBsbHZjaXUzMHI5bGY4NmQya2ppcnljY3dpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNBCVMv6XobnMUMYJG/giphy.gif" width="3.5%"> Support My Work
 

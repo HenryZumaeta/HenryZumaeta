@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/wanderer_v05_1800x506.png" width="1100" height="250">
+<img src="https://raw.githubusercontent.com/HenryZumaeta/DataProgrammingRepo/refs/heads/main/db/Fondo_ProgBIM.png" width="100%" height="100%" >
 
 <h1 align="center">Hi, I'm Henry Zumaeta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
